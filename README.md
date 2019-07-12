@@ -56,6 +56,8 @@ if you doesn't want to add in webpack.config.js then you have to add these certi
   and then run npm start comamnd on terminal or you can also use
   pm2 start npm -- start
 
+ For tutorial person Have create a self sign certificate but if you want to live your website with https then  please use public ssl certificate 
+
 
 
 
