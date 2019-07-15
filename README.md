@@ -16,10 +16,10 @@ and you can try below command
 <pre>
 npm run dev -- --open --https --cert private.pem --key private.key
 </pre>
-
+<span>
 Note : the npm run dev command is depand on your package.json, if you have setup add "dev" in you package.json script object
-
-and For webpack.config.js
+</span>
+ <h4>For webpack.config.js</h4>
 
 https Should be true 
 port: 443, // defult ssl port
